@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: CP860.h
-Description: CP860 (VGA Code Page 860) font for DisplayCore
+Description: CP860 (VGA Code Page 860)
